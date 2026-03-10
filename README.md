@@ -18,7 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbiazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 ![Snake animation](https://github.com/viniciusbiazi/viniciusbiazi/blob/output/github-contribution-grid-snake-dark.svg)
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
