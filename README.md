@@ -2,7 +2,7 @@
 🔭 I’m currently working on convertatudo.com<br>🌱 I’m currently learning WebAssembly and Next.js<br>💬 Ask me about life<br>⚡ Fun fact I can solve Rubik's cubes kinda fast
 
 
-## Contatos:
+# 🌐 Socials:
 <div>
 <a href="https://instagram.com/printf_vinicin" target="_blanck"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:patus.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,16 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=viniciusbiazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=viniciusbiazi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbiazi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=viniciusbiazi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![Snake animation](https://github.com/viniciusbiazi/viniciusbiazi/blob/output/github-contribution-grid-snake.svg)
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=viniciusbiazi&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
