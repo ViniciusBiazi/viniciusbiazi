@@ -33,12 +33,15 @@
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Project  ![Status](https://img.shields.io/badge/status-early%20development-orange?style=for-the-badge)
 
 #### 🔄 [Convertatudo.com](https://convertatudo.com)
-A high-performance file conversion platform leveraging **WebAssembly** for client-side processing.
-* **Core Technology:** Uses WASM to execute low-level conversion logic directly in the browser at near-native speeds.
-* **Focus:** Data privacy (files never leave the client) and resource optimization to handle large buffers efficiently.
+This project leverages **WebAssembly** to ensure that file conversion happens 100% within the user's browser.
+
+Currently in **Early Development**, focusing on:
+- [x] Implementation of core conversion logic via WASM.
+- [ ] Expansion of supported formats (PDF, Images, Video).
+- [ ] UI/UX refinement.
 
 ---
 
