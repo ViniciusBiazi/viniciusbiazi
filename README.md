@@ -1,3 +1,5 @@
+<img width="128" height="128" alt="duckSpin32" src="https://github.com/user-attachments/assets/45804603-5a1a-4e89-83b2-638dfb9cd29b" />
+<img width="128" height="128" alt="duckSpin32" src="https://github.com/user-attachments/assets/076da677-2e15-465f-8547-a412843cb77a" />
 # Hi, I'm Vinicius 👋
 
 <table>
@@ -14,7 +16,7 @@
       </div>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8c311181-b941-4617-8e55-ce2e5a4b3bff" width="128" alt="Spinning Duck" />
+      <img width="128" height="128" alt="duckSpin32" src="https://github.com/user-attachments/assets/251ea0d9-789f-4bec-972f-442930cdda17" />
     </td>
   </tr>
 </table>
