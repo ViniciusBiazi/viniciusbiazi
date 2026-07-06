@@ -1,5 +1,3 @@
-<img width="128" height="128" alt="duckSpin32" src="https://github.com/user-attachments/assets/45804603-5a1a-4e89-83b2-638dfb9cd29b" />
-<img width="128" height="128" alt="duckSpin32" src="https://github.com/user-attachments/assets/076da677-2e15-465f-8547-a412843cb77a" />
 # Hi, I'm Vinicius 👋
 
 <table>
